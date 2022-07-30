@@ -4,10 +4,12 @@
 - Express
 - MongoDB
 # Environment Variables
-```SENDGRID_API_KEY=YOURS_SENDGRID_API_KEY
+```
+SENDGRID_API_KEY=YOURS_SENDGRID_API_KEY
 JWT_SECRET=SECRED_KEY_FOR_JWT
 MONGODB_URL=MONGODB_SERVER_URL
-PORT=3000```
+PORT=3000
+```
 # API Docs
 ### User Routes
 #### Authorization Header
